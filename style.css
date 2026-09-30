@@ -1,0 +1,127 @@
+body {
+
+    font-family: arial;
+
+    background-color: rgba(255,197,211);
+
+    color: black;
+
+    margin: 0;
+
+    text-align: center;
+
+}
+
+
+h1 {
+
+    font-size: 40px;
+
+    margin-bottom: 10px;
+
+}
+
+
+h2 {
+
+    color: red;
+
+    font-size: 28px;
+
+}
+
+nav {
+
+    background-color: palevioletred;
+
+    padding: 15px;
+
+}
+
+nav a {
+
+    display: inline-block;
+
+    color: white;
+
+    text-decoration: none;
+
+    padding: 10px 15px;
+
+    margin: 5px;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+
+}
+
+
+.secao {
+
+    background-color: white;
+
+    width: 80%;
+
+    max-width: 700px;
+
+    margin: 30px auto;
+
+    padding: 25px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+p {
+
+    font-size: 18px;
+
+    line-height: 1.6;
+
+}
+
+
+
+img {
+
+    width: 400px;
+
+    max-width: 100%;
+
+    height: auto;
+
+    border-radius: 10px;
+
+    margin-top: 10px;
+
+}
+
+.secao a {
+
+    color: plum;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+}
+
+
+#contactos button {
+
+    background-color: palevioletred;
+
+    color: white;
+
+    border: none;
+
+    padding: 12px 25px;
+
+    border-radius: 8px;
+
+    font-size: 16px;
+
+}
